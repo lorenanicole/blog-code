@@ -1,0 +1,6 @@
+jevals>=0.1.4
+anthropic>=2,<3
+httpx
+pydantic>=2
+matplotlib
+python-dotenv>=1.0
